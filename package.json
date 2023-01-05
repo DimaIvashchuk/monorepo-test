@@ -1,8 +1,11 @@
 {
-  "private": false,
-  "name": "monorepo-test",
+  "private": true,
+  "name": "monorepo-test-dima",
   "workspaces": [
     "packages/*"
   ],
-  "version": "1.0.1"
+  "version": "1.0.0",
+  "devDependencies": {
+    "lerna": "^6.3.0"
+  }
 }
