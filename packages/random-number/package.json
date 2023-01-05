@@ -1,8 +1,7 @@
 {
-  "name": "@monorepo-test-dima/random-number",
+  "name": "@DimaIvashchuk/random-number",
   "version": "1.0.7",
   "description": "> TODO: description",
-  "author": "Dmytro Ivashchuk <dmytro.ivashchuk.external@cloudpay.net>",
   "homepage": "https://github.com/DimaIvashchuk/monorepo-test#readme",
   "license": "ISC",
   "main": "lib/random-number.js",
@@ -26,5 +25,5 @@
   "bugs": {
     "url": "https://github.com/DimaIvashchuk/monorepo-test/issues"
   },
-  "gitHead": "b82e218517bf1cbf1b23f92adec04083733859af"
+  "gitHead": "71804bc641db1b8f65b31e4c2c2d607d7f490eca"
 }
