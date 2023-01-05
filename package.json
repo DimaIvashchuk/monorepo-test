@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "repository": "https://github.com/DimaIvashchuk/monorepo-test",
   "version": "1.0.0",
   "devDependencies": {
     "lerna": "^6.3.0"
